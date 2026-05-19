@@ -256,4 +256,4 @@ Note: Use Python version: 3.8.5
 # Collaborators
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
-  | Aryan Burnwal | [GitHub](https://github.com/Aryanburnwal05) | [Email](mailto:burnwalaryan922@gmail.com) | LinkedIn | Instagram |
+  | Aryan Burnwal | [GitHub](https://github.com/Aryanburnwal05) | [Email](mailto:burnwalaryan922@gmail.com) |
